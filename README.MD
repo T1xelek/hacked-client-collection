@@ -1,7 +1,9 @@
 Discord: https://discord.gg/yrUWe5x6pM
+
 Источники:
 	https://masterof13fps.com
 	https://yougame.biz
+
 Клиенты:
 	Capybara Premium 1.0 (1.12.2)
 	Celestial Premium 6.0 (1.12.2)
