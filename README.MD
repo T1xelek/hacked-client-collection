@@ -1,5 +1,7 @@
 Discord: https://discord.gg/yrUWe5x6pM
 
+Собрал почти все клиенты, пишите в дискорд если надо добавить что-нибудь.
+
 Источники:
 
 	https://masterof13fps.com
