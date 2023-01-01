@@ -51,3 +51,15 @@ Discord: https://discord.gg/yrUWe5x6pM
 	WintWare 0.2 (1.12.2)
 
 	Zamorozka 0.5.3 (1.12.2)
+	
+	Rage Lite 2.3 (1.12.2)
+
+	Minced 1.8 (1.12.2)
+
+	Rage 9.0 (1.12.2)
+
+	Wild 0.9 (1.12.2)
+
+	Wild 0.5 (1.12.2)
+	
+	MoonWare (1.12.2)
