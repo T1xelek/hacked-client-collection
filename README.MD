@@ -63,3 +63,5 @@ Discord: https://discord.gg/yrUWe5x6pM
 	Wild 0.5 (1.12.2)
 	
 	MoonWare (1.12.2)
+	
+	Minced 2.1 (1.12.2)
