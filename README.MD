@@ -65,3 +65,5 @@ Discord: https://discord.gg/yrUWe5x6pM
 	MoonWare (1.12.2)
 	
 	Minced 2.1 (1.12.2)
+	
+	Clowdy Lite (1.12.2)
